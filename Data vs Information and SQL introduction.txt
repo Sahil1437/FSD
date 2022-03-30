@@ -1,0 +1,33 @@
+Data VS INFORMATION
+
+Information- Data that been converted into a more valuable or useful or intelligent form.
+
+for example:
+Your score in your Maths exam in first sem- Its a data
+
+DATABASE - Systematic collection of related data,management of data very easy,which can be easily stored or changed or accessed at any time.
+
+Database Management System- it manages the storage and  retrives data from the DATABASE.
+
+DATABASE TABLES- Collection of related data held in a table form within a database.
+
+Columns - attribute or fields
+rows - records or tuple
+
+SQL-Structured Query Language (alloes u to access the database ith the help of querys)
+
+SELECT * FROMuniversity.library
+Where book_typr='computer programming'
+
+All can SQL do:-
+
+1)Execute queries against a database
+2)Retrive data from a database
+3)Insert records in a database
+4)Update records in a database
+5)Delete records from a database
+6)Create new database
+7)Create new tables in a database
+8)Set permissions on tables
+
+
