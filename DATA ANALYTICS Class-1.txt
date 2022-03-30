@@ -1,0 +1,27 @@
+ Fundamentals of Data Analytics:-
+ 
+ Data Analytics- Process of cleaning,anaLyzing,interpreting and finally visualising of data.
+ 
+ Why is it IMPORTANT?
+ 
+    DATA IS THE NEW OIL !!
+	
+DIFFERENT TYPES OF data Analytics
+	
+	1) Discriptive Analysis - what happned?
+	2) diagnotic Analysis - WHY IT HAPPEND?
+	3) predictive Analysis - WHAT IS LIKELY TO HAPPEN?
+	4) precritive Analysis - WHAT CAN BE DONE?
+	
+COURSE CONTENT
+
+1)GUESSTIMATE
+2)SQL
+3)EXCEL 
+
+what about Data science,machine leaarning,AI and Business Analytics?
+
+need to know how to deal with the  data first before aything, DATA analytics is the core thing to know before data science or nachine learning.
+
+If Fundamentals are clear then we can go anywhere from business analytics to data analytics.
+
